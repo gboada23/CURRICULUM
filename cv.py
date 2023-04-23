@@ -157,25 +157,26 @@ with col3:
                 </font>''', unsafe_allow_html=True)
     st.expander("UNIVERSIDAD CENTRAL DE VENEZUELA").write("Cursando 6to Semestre de Estadisticas y Cs Actuariales")
 st.divider()
-
-st.markdown(
-    """<div style='background-color: #3E1CC4; padding: 5px; border-radius:5px;'>
-    <span style='color: ##1D20FA; font-size: 1.8em;'><center><b>  HABILIDADES </b></center></span>
-    </div>""",unsafe_allow_html=True)
-st.markdown("")
-col1, col2, col3 = st.columns((5,5,3))
-with col1 :
-    st.image("images/python.jpg",width=100, caption= "PYTHON")
-    st.image("images/docker.png",width=100, caption= "DOCKER")
-    
-with col2 :
-    st.image("images/sql.png",width=100, caption= "POSTGRESQL")
-    st.image("images/git.jpg",width=100, caption= "GIT")
-with col3 :
-    st.image("images/looker.png",width=100, caption= "LOOKER")
-    st.image("images/github.png",width=100, caption= "GIT-HUB")
+col1,col2,col3=st.columns((2,6,2))
+with col2:
+    st.markdown(
+        """<div style='background-color: #3E1CC4; padding: 5px; border-radius:5px;'>
+        <span style='color: ##1D20FA; font-size: 1.8em;'><center><b>  HABILIDADES </b></center></span>
+        </div>""",unsafe_allow_html=True)
+    st.markdown("")
+    col1, col2, col3 = st.columns((5,5,3))
+    with col1 :
+        st.image("images/python.jpg",width=100, caption= "PYTHON")
+        st.image("images/docker.png",width=100, caption= "DOCKER")
+        
+    with col2 :
+        st.image("images/sql.png",width=100, caption= "POSTGRESQL")
+        st.image("images/git.jpg",width=100, caption= "GIT")
+    with col3 :
+        st.image("images/looker.png",width=100, caption= "LOOKER")
+        st.image("images/github.png",width=100, caption= "GIT-HUB")
 st.divider()
-col1,col2,col3=st.columns((1,7,1))
+col1,col2,col3=st.columns((2,6,2))
 col2.markdown(
     """<div style='background-color: #3E1CC4; padding: 5px; border-radius:5px;'>
     <span style='color: ##1D20FA; font-size: 1.8em;'><center><b>  CURSOS </b></center></span>
@@ -198,32 +199,31 @@ col2.expander("Visualiza todos los cursos aqui puedes tocar el nombre de cada un
 
         """)
 st.divider()
-col1, col2 = st.columns((4,4))
+col1,col2,col3=st.columns((2,6,2))
 
-col1.markdown(
+col2.markdown(
         """<div style='background-color: #3E1CC4; padding: 5px; border-radius:5px;'>
         <span style='color: ##1D20FA; font-size: 1.8em;'><center><b>  IDIOMAS </b></center></span>
         </div>""",unsafe_allow_html=True)
-
+col2.write("")
+option = col2.radio("Nivel del Idioma seleccionado",options=["Español","Ingles","Italiano"],key="A")
+if option == "Español":
+    col2.markdown("### ⭐⭐⭐⭐⭐")
+elif option == "Ingles":
+    col2.write("### ⭐⭐⭐")
+else:
+    col2.write("### ⭐")
+col2.divider()
 col2.markdown(
     """<div style='background-color: #3E1CC4; padding: 5px; border-radius:5px;'>
     <span style='color: ##1D20FA; font-size: 1.8em;'><center><b>  PORTAFOLIO </b></center></span>
     </div>""",unsafe_allow_html=True)
-st.write(" ")
-col1, col2 = st.columns((4,4))
+col2.write(" ")
 
-col1.write("")
-option = col1.radio("Nivel del Idioma seleccionado",options=["Español","Ingles","Italiano"],key="A")
-if option == "Español":
-    col1.markdown("### ⭐⭐⭐⭐⭐")
-elif option == "Ingles":
-    col1.write("### ⭐⭐⭐")
-else:
-    col1.write("### ⭐")
 with col2:
     subcol1,subcol2=st.columns((1,5))
     with subcol1:
-        st.image("images/github.png",width=80, caption="gboada23")
+        ima = st.image("images/github.png",width=80, caption="gboada23")
 
     with subcol2:
         st.markdown("")
@@ -233,8 +233,8 @@ def descargar_excel2():
         with open('CV GUSTAVO.pdf', 'rb') as f:
             bytes_data = f.read()
         col2.download_button(label="Descargar PDF", data=bytes_data, file_name='CV GUSTAVO BOADA.pdf', key='descargar_pdf')
-col2.write('Para descargar el CV como PDF, presiona el siguiente botón:')
+col2.write('Descargar el CV como PDF')
 descargar_excel2()
-st.write("#")
+st.markdown("#")
 st.caption("Curriculum creado con Python por mi persona usando el framework de stremlit")
 
