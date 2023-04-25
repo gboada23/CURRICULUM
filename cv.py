@@ -167,14 +167,15 @@ with col2:
     col1, col2, col3 = st.columns((5,5,3))
     with col1 :
         st.image("images/python.jpg",width=100, caption= "PYTHON")
-        st.image("images/docker.png",width=100, caption= "DOCKER")
-        
+        st.image("images/excel.jpg",width=100, caption= "EXCEL")
+                
     with col2 :
         st.image("images/sql.png",width=100, caption= "POSTGRESQL")
-        st.image("images/git.jpg",width=100, caption= "GIT")
-    with col3 :
         st.image("images/looker.png",width=100, caption= "LOOKER")
-        st.image("images/github.png",width=100, caption= "GIT-HUB")
+        
+    with col3 :
+        st.image("images/git.jpg",width=100, caption= "GIT")
+        st.image("images/docker.png",width=100, caption= "DOCKER")
 st.divider()
 col1,col2,col3=st.columns((2,6,2))
 col2.markdown(
