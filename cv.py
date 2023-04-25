@@ -53,12 +53,12 @@ st.sidebar.divider()
 
 st.sidebar.markdown(
     """<div style='background-color: #3E1CC4; padding: 5px; border-radius:5px;'>
-    <span style='color: ##1D20FA; font-size: 1.6em;'><b>  PERFIL PROFESIONAL </b></span>
+    <span style='color: ##1D20FA; font-size: 1.6em;'><center><b>  PERFIL PROFESIONAL </b></center></span>
     </div>""",unsafe_allow_html=True)
 st.sidebar.write(" ")
 st.sidebar.markdown(
     """<div style='background-color: #160C80; padding: 5px; border-radius: 5px;'>
-    <p style='text-align: justify; color: black; font-size: 1em;'>
+    <p style='text-align: justify; color: white; font-size: 1em;'>
     <b>Soy un profesional en formación para convertirme en Actuario, 
     cursando 6to semestre de Cs Actuariales en la UCV con una sólida 
     formación académica y habilidades en análisis de datos. Soy una 
