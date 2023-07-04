@@ -60,13 +60,13 @@ st.sidebar.markdown(
     """<div style='background-color: #160C80; padding: 5px; border-radius: 5px;'>
     <p style='text-align: justify; color: white; font-size: 1em;'>
     <b>Soy un profesional en formación para convertirme en Actuario, 
-    cursando 6to semestre de Cs Actuariales en la UCV con una sólida 
+    cursando 7mo semestre de Cs Actuariales en la UCV con una sólida 
     formación académica y habilidades en análisis de datos. Soy una 
     persona seria y responsable, con actitud proactiva y siempre dispuesto
     a aprender. Tengo experiencia trabajando como analista de datos. Estoy
     enfocado en mi carrera y seguir aumentando mis conocimientos sobre 
     gestión de proyectos, Inteligencia Artificial, finanzas, riesgos y seguros, 
-    con la intención de convertirme en Actuario y Full Stack en Python. Confío 
+    con la intención de ser un Actuario con todas las herramientas necesarias que se necesitan en el mercado laboral. Confío 
     en que mis habilidades me permitirán contribuir significativamente a cualquier empresa 
     donde pueda aplicar mis conocimientos.</b>
     </p>
@@ -97,7 +97,8 @@ with col1:
       lo que facilita la toma de decisiones. Adicionalmente, implementé funciones para crear automatizaciones 
       de procesos manipulando la data usando Python. También creé un bot de Telegram e integré las funciones de
         automatización dentro de él, por lo que el bot ejecuta automáticamente la tarea correspondiente. 
-        Esta integración mejoró aún más la eficiencia y eficacia de los procesos en la empresa.</p>
+        Esta integración mejoró aún más la eficiencia y eficacia de los procesos en la empres también cree un sistema de 
+        incidencias para el departamento de RRHH a través de python. a.</p>
     </div>""",
     unsafe_allow_html=True)
 with col2:
