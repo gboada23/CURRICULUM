@@ -98,7 +98,7 @@ with col1:
       de procesos manipulando la data usando Python. También creé un bot de Telegram e integré las funciones de
         automatización dentro de él, por lo que el bot ejecuta automáticamente la tarea correspondiente. 
         Esta integración mejoró aún más la eficiencia y eficacia de los procesos en la empres también cree un sistema de 
-        incidencias para el departamento de RRHH a través de python. a.</p>
+        incidencias para el departamento de RRHH a través de python.</p>
     </div>""",
     unsafe_allow_html=True)
 with col2:
@@ -156,7 +156,7 @@ with col3:
     st.markdown('''<font color="green" style="font-size:20px">
                 <center><b>UNIVERSITARIA</b></center>
                 </font>''', unsafe_allow_html=True)
-    st.expander("UNIVERSIDAD CENTRAL DE VENEZUELA").write("Cursando 6to Semestre de Estadisticas y Cs Actuariales")
+    st.expander("UNIVERSIDAD CENTRAL DE VENEZUELA").write("Cursando 7mo Semestre de Estadisticas y Cs Actuariales")
 st.divider()
 col1,col2,col3=st.columns((2,6,2))
 with col2:
@@ -197,7 +197,7 @@ col2.expander("Visualiza todos los cursos aqui puedes tocar el nombre de cada un
 
     ##### ✅   [GOOGLE DATA STUDIO](https://www.udemy.com/certificate/UC-87f6149e-5d5e-4a04-a74c-2ea8815f3766/) Avanzado tutorial de visualizacion de datos (11 horas)
 
-    ##### ✅   [MATEMATICAS FINANCIERAS CON PYTHON](https://www.udemy.com/certificate/UC-5426e008-959c-487e-aeda-0375ffe9fb10/) Avanzado de visualizacion de datos (7 horas)
+    ##### ✅   [MATEMATICAS FINANCIERAS CON PYTHON](https://www.udemy.com/certificate/UC-5426e008-959c-487e-aeda-0375ffe9fb10/) Interes simple, Interes compuesto, rentas y sistemas de amortizaciones (7 horas)
 
         """)
 st.divider()
