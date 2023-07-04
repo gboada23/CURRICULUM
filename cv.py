@@ -185,11 +185,11 @@ col2.markdown(
     </div>""",unsafe_allow_html=True)
 col2.write(" ")
 col2.expander("Visualiza todos los cursos aqui puedes tocar el nombre de cada uno para verificar las certificaciones").markdown("""
-    ##### ✅   [ESCUELA DE PYTHON 2021](https://www.udemy.com/certificate/UC-7c5b9c4e-9976-45e7-a839-9da004228561/) Aprende python de 0 a Master (21 HORAS)
+    ##### ✅   [ESCUELA DE PYTHON 2021](https://www.udemy.com/certificate/UC-7c5b9c4e-9976-45e7-a839-9da004228561/) Aprende python de 0 a Master (21 horas)
     
-    ##### ✅   [PYTHON PARA ANALISIS DE DATOS](https://www.udemy.com/certificate/UC-ab461b11-b539-4708-ad54-dfb55865fccc/) Analisis y visualizacion de Datos (7 HORAS)
+    ##### ✅   [PYTHON PARA ANALISIS DE DATOS](https://www.udemy.com/certificate/UC-ab461b11-b539-4708-ad54-dfb55865fccc/) Analisis y visualizacion de Datos (7 horas)
 
-    ##### ✅   [PYTHON PARA ANALISIS DE DATOS 2](https://www.udemy.com/certificate/UC-fce6892d-9dec-4c7f-873b-68082cbcc92a/) Analisis avanzado para Data Science (5 HORAS)
+    ##### ✅   [PYTHON PARA ANALISIS DE DATOS 2](https://www.udemy.com/certificate/UC-fce6892d-9dec-4c7f-873b-68082cbcc92a/) Analisis avanzado para Data Science (5 horas)
     
     ##### ✅   [MACHINE LEARNING CON PYTHON](https://www.udemy.com/certificate/UC-4288978f-8088-44a0-b0c2-2d90d17fb7bd/) Introductorio y tutorial en la ciencia de datos (7 horas)
     
