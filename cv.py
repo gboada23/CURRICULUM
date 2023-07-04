@@ -23,7 +23,7 @@ st.sidebar.markdown('''<font color="green">
 
 st.sidebar.markdown("### **ACTUARIO EN FORMACION**")
 st.sidebar.markdown('''<font color="green">
-                <b>Cursando 6to Semestre de Cs Actuariales
+                <b>Cursando 7mo Semestre de Cs Actuariales
                 </font>''', unsafe_allow_html=True)
 
 st.sidebar.divider()
