@@ -62,13 +62,13 @@ st.sidebar.markdown(
     <b>Soy un profesional en formación para convertirme en Actuario, 
     cursando 7mo semestre de Cs Actuariales en la UCV con una sólida 
     formación académica y habilidades en análisis de datos. Soy una 
-    persona seria y responsable, con actitud proactiva y siempre dispuesto
-    a aprender. Tengo experiencia trabajando como analista de datos. Estoy
-    enfocado en mi carrera y seguir aumentando mis conocimientos sobre 
-    gestión de proyectos, Inteligencia Artificial, finanzas, riesgos y seguros, 
-    con la intención de ser un Actuario con todas las herramientas necesarias que se necesitan en el mercado laboral. Confío 
-    en que mis habilidades me permitirán contribuir significativamente a cualquier empresa 
-    donde pueda aplicar mis conocimientos.</b>
+    persona seria y responsable, con actitud proactiva y siempre 
+    dispuesto a aprender. Tengo experiencia trabajando como analista de datos. 
+    Estoy enfocado en seguir aumentando mis conocimientos sobre gestión de proyectos, 
+    Inteligencia Artificial, finanzas, riesgos y seguros, con la intención de convertirme 
+    en Actuario. Me encuentro en búsqueda activa de nuevos retos.
+      Confío en que mis habilidades me permitirán contribuir de manera significativa
+        a cualquier empresa donde pueda aplicar mis conocimientos.</b>
     </p>
     </div>""",
     unsafe_allow_html=True
@@ -91,14 +91,11 @@ with col1:
                 <center><b>COORDINADOR DE DATOS</b></center>
                 </font>''', unsafe_allow_html=True)
     st.expander(" OCTUBRE 2022 / ACTUAL").markdown("""<p style='text-align: justify; color: white; font-size: 1em;'> 
-    Desarrollé una aplicación en AppSheet para la gestión de asistencia y desempeño del personal, 
-    que almacena datos en Google Sheets. Creación de dashboard de KPI en Data Studio, que se alimenta
-      de la BD de la aplicación a tiempo real que permiten visualizaciones claras y fáciles de entender, 
-      lo que facilita la toma de decisiones. Adicionalmente, implementé funciones para crear automatizaciones 
-      de procesos manipulando la data usando Python. También creé un bot de Telegram e integré las funciones de
-        automatización dentro de él, por lo que el bot ejecuta automáticamente la tarea correspondiente. 
-        Esta integración mejoró aún más la eficiencia y eficacia de los procesos en la empres también cree un sistema de 
-        incidencias para el departamento de RRHH a través de python.</p>
+    Manipulación y limpieza de datos para la Creación de Dashboard de KPI en Looker Studio, 
+    También creé 2 bots de Telegram e integré funciones de automatización dentro de él envía
+     mensajes automáticos y correos con reportes diarios, generar reportes semanales en pdf
+    usando python y reportes mensuales a través de los datos para toma de decisiones. 
+    Skill: Python, Gsheets, Scraping web, Selenium, Looker Studio, SQL</p>
     </div>""",
     unsafe_allow_html=True)
 with col2:
@@ -107,10 +104,10 @@ with col2:
                 <center><b>COORDINADOR DE MATERIA ESTADISTICA</b></center>
                 </font>''', unsafe_allow_html=True)
     st.expander("ENERO 2020 / JULLIO 2022").markdown("""<p style='text-align: justify; color: white; font-size: 1em;'> 
-    Empresa se encarga de realizar Encuestas de cualquier tipo dependiendo del cliente, 
-    Generaba las estadísticas y análisis de esos datos realizando un proceso previo de 
-    limpieza y manipulación de datos a través de Python para llegar a conclusiones para que la 
-    empresa contratante pudiera tomar decisiones</p>
+    Generaba las estadísticas y análisis de esos datos realizando un proceso 
+    previo de limpieza y manipulación de datos a través de Python para llegar 
+    a conclusiones para que la empresa contratante pudiera tomar decisiones. 
+    Skill: Python, Excel</p>
     </div>""",
     unsafe_allow_html=True)
 
