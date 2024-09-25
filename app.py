@@ -32,8 +32,11 @@ proyectos = {
     "🏆 Generador de códigos QR": "https://qr-generador-gustavo-boada.streamlit.app/",
     "🏆 Interpolación e integración numérica": "https://github.com/gboada23/Interpolacion-e-integracion-numerica/",
     "🏆 Bot de telegram - Python": "https://github.com/gboada23/BOT-TELEGRAM-CAPITALES",
-    "🏆 Test técnico resuelto usando Python":"https://colab.research.google.com/drive/1wvh7shTS5IFkHh74Iaacflt319Ag1gpD#scrollTo=Y1iOzdz0w--V"
-}
+    "🏆 Test técnico resuelto usando Python":"https://colab.research.google.com/drive/1wvh7shTS5IFkHh74Iaacflt319Ag1gpD#scrollTo=Y1iOzdz0w--V",
+    "🏆 Dashboard Rentabilidades de Productos":"https://lookerstudio.google.com/reporting/c4b454cb-1542-485d-9fda-fcc0fc4bf4fc",
+    "🏆 Dashboard de Gestión de personal operativo":"https://lookerstudio.google.com/reporting/9bf1e9af-08d1-42cb-9856-1d22b96f6dbf",
+    "🏆 Dashboard de Hoteles afiliados a empresa de transporte":"https://lookerstudio.google.com/reporting/4b4cd7e9-cae6-4349-a704-810e1e8056d1"
+    }
 
 Cursos ={
     "✅ Python de cero a Master" :"https://www.udemy.com/certificate/UC-7c5b9c4e-9976-45e7-a839-9da004228561/",
