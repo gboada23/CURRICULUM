@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+* {font-family: 'Readex Pro';}
+
+a {text-decoration: none; 
+    color: #0096ff !important;
+     font-weight: 500;}
+
+a:hover {
+    color: #00ffa2 !important;
+    text-decoration: none;
+}
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+
+/* Estilos específicos para cada botón de plataforma */
+button[data-key="link_button_Whatsapp"] {
+    background-color: #25D366; /* Verde para WhatsApp */
+    color: white;
+}
+
+button[data-key="link_button_LinkedIn"] {
+    background-color: #0077B5; /* Azul para LinkedIn */
+    color: white;
+}
+
+button[data-key="link_button_GitHub"] {
+    background-color: #333; /* Negro oscuro para GitHub */
+    color: white;
+}
+
+button[data-key="link_button_Upwork"] {
+    background-color: #6fda44; /* Verde claro para Upwork */
+    color: white;
+}
+
+button[data-key="link_button_Get_on_board"] {
+    background-color: #FF6F61; /* Color para Get On Board */
+    color: white;
+}
+
+button[data-key="link_button_Instagram"] {
+    background-color: #E1306C; /* Fucsia para Instagram */
+    color: white;
+}
