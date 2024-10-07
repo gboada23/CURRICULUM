@@ -24,6 +24,7 @@ proyectos = {
     "🏆 Predicción calidad vino - Redes neuronales": "https://colab.research.google.com/drive/1VY5EUhygd16_uwqlOfNyh5UU525bO2Jq?usp=sharing",
     "🏆 Análisis y visualización de datos - Pandemia Colombia": "https://github.com/gboada23/DATA-ANALYST",
     "🏆 Web scraping - MLB": "https://github.com/gboada23/scpraping-web-MLB",
+    "🏆 Graficos tipo radar Satsifaccion del cliente": "https://github.com/gboada23/Graficos-radar-Satisfaccion-del-cliente",
     "🏆 Análisis y storytelling - MLB 2022": "https://analisis-pitchers-2022.streamlit.app/",
     "🏆 Envío automático de correos masivos": "https://github.com/gboada23/calculo-de-evaluaciones-GG",
     "🏆 API en Flask - Integración CRM": "https://github.com/gboada23/API-EVALUACIONES-FLASK",
