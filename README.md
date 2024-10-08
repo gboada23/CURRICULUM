@@ -39,5 +39,4 @@ Si estás interesado en contribuir a este proyecto, por favor, sigue estos pasos
 ## **Link del Portafolio**
   **Portafolio:** [[Accede al portafolio](https://portafolio-gustavo-boada.streamlit.app/)]  
 
-[Incluir aquí imágenes, gráficos o animaciones para visualizar los resultados del proyecto]
-
+![Imagen pagina principal](assets/imagen.png)
