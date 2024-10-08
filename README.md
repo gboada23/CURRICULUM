@@ -22,12 +22,13 @@ Soy **Gustavo Boada**, un apasionado de los datos con experiencia en **Python**,
 
 ## 🤝 Cómo Contribuir
 
-Si estás interesado en contribuir a este proyecto, ¡sigue estos pasos!:
+Si estás interesado en contribuir en un proyecto conmigo, ¡sigue estos pasos!:
 
-1. **Forkea este repositorio** 🍴
+1. **Forkea uno de mis repositorio** 🍴
 2. **Crea una nueva rama** para tus cambios 🚧
 3. **Realiza tus cambios** y haz un commit ✅
 4. **Envía un pull request** 🔄
+5. **O escribeme a linkedin** y hablamos
 
 Tu colaboración es bienvenida, y me encantaría trabajar contigo para mejorar estos proyectos.
 
