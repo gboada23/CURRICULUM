@@ -11,9 +11,9 @@ Soy Gustavo Boada, un apasionado de los datos con experiencia en Python, SQL, Ma
 
 **Proyectos destacados:**
 
-* **[Web scraping - MLB]:**
-* **[Graficos tipo radar Satsifaccion del cliente]:** 
-* **[Análisis y storytelling - MLB 2022]:**
+* **Web scraping - MLB**
+* **Graficos tipo radar Satsifaccion del cliente** 
+* **Análisis y storytelling - MLB 2022**
 
 **Tecnologías utilizadas:**
 
@@ -32,11 +32,11 @@ Si estás interesado en contribuir a este proyecto, por favor, sigue estos pasos
 **Contacto:**
 
 * **Email:** [gusavoboadalugo@gmail.com]
-* **LinkedIn:** [[Tu perfil de LinkedIn](https://www.linkedin.com/in/gboada23/)]
+* **LinkedIn:** [[Gustavo Boada lugo](https://www.linkedin.com/in/gboada23/)]
 
 ---
 
-## **[Link del Portafolio]**
+## **Link del Portafolio**
   **Portafolio:** [[Accede al portafolio](https://portafolio-gustavo-boada.streamlit.app/)]  
 
 [Incluir aquí imágenes, gráficos o animaciones para visualizar los resultados del proyecto]
