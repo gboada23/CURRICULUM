@@ -40,25 +40,38 @@ proyectos = {
     }
 
 Cursos ={
-    "✅ Python de cero a Master" :"https://www.udemy.com/certificate/UC-7c5b9c4e-9976-45e7-a839-9da004228561/",
+    "✅ Python de cero a Master" :
+    "https://www.udemy.com/certificate/UC-7c5b9c4e-9976-45e7-a839-9da004228561/",
     
-    "✅ Análisis y visualización de datos" : "https://www.udemy.com/certificate/UC-ab461b11-b539-4708-ad54-dfb55865fccc/",
+    "✅ Análisis y visualización de datos con Python (Pandas, Numpy, Matplotlib, Plotly)" : 
+    "https://www.udemy.com/certificate/UC-ab461b11-b539-4708-ad54-dfb55865fccc/",
 
-    "✅ Análisis avanzado para Data Science": "https://www.udemy.com/certificate/UC-fce6892d-9dec-4c7f-873b-68082cbcc92a/",
+    "✅ Análisis avanzado para Data Science (Pandas, Numpy, Skitlearn, etc)":
+      "https://www.udemy.com/certificate/UC-fce6892d-9dec-4c7f-873b-68082cbcc92a/",
     
-    "✅ Machine learning":"https://www.udemy.com/certificate/UC-4288978f-8088-44a0-b0c2-2d90d17fb7bd/",
-    
-    "✅ SQL usando Postgresql" :"https://www.udemy.com/certificate/UC-812dc016-3225-460e-9093-e0f210ece11e/" ,
+    "✅ Scraping web con python (Beatifulsoup, Selenium, Scrapy)" :
+    "https://www.udemy.com/certificate/UC-635b173a-564f-40c8-8a9d-fbc8a80757ab/",	
 
-    "✅ Visualizacion de datos con Looker studio": "https://www.udemy.com/certificate/UC-87f6149e-5d5e-4a04-a74c-2ea8815f3766/",
+    "✅ Machine learning con python (Skitlearn, Pandas, Numpy, Matplotlib)":
+    "https://www.udemy.com/certificate/UC-4288978f-8088-44a0-b0c2-2d90d17fb7bd/",
 
-    "✅ Matemáticas Financieras con python y excel" :"https://www.udemy.com/certificate/UC-5426e008-959c-487e-aeda-0375ffe9fb10/",
+    "✅ ML y Deep Learning con Python (Skitlearn, Scipy, Keras, TensorFlow, Pytorch)" :
+    "https://www.udemy.com/certificate/UC-0ef6ae17-20b1-4ef0-9b55-258978c17580/",
     
-    "✅ Machine Learning Aplicado a Python y ciencia de datos" :"https://www.udemy.com/certificate/UC-0ef6ae17-20b1-4ef0-9b55-258978c17580/",
-    
-    "✅ Scraping web con python usando Bs4, Selenium y Scrapy" :"https://www.udemy.com/certificate/UC-635b173a-564f-40c8-8a9d-fbc8a80757ab/",	
+    "✅ SQL a nivel Avanzado Hackerrank" :
+    "https://www.hackerrank.com/certificates/iframe/36c45b8660ce" ,
 
-    "✅ Google Cloud Platform- Fundamentos Laborarios y practicas" :"https://www.udemy.com/certificate/UC-5c04b559-2cad-4f94-bf69-12ba3069cd49/"	
+    "✅ Analisis de datos usando Postgresql" :
+    "https://www.udemy.com/certificate/UC-812dc016-3225-460e-9093-e0f210ece11e/" ,
+
+    "✅ Visualizacion de datos con Looker studio":
+      "https://www.udemy.com/certificate/UC-87f6149e-5d5e-4a04-a74c-2ea8815f3766/",
+
+    "✅ Matemáticas Financieras con python y excel" :
+    "https://www.udemy.com/certificate/UC-5426e008-959c-487e-aeda-0375ffe9fb10/",
+
+    "✅ Google Cloud Platform- Laborarios (BigQuery, Apis, Microservicios, etc.)" :
+    "https://www.udemy.com/certificate/UC-5c04b559-2cad-4f94-bf69-12ba3069cd49/"	
     }
 # Configuracion de la pagina
 st.set_page_config(
@@ -133,8 +146,8 @@ st.subheader("Habilidades Técnicas")
 st.write("---")
 
 st.write("""
-- 💻 Programación: Python, R, HTML, CSS
-- ⚙️ Software: SPSS, Appsheet, Power Automate, Microsoft 365 office
+- 💻 Programación: Python, HTML, CSS
+- ⚙️ Software: SPSS, Appsheet, Power Automate, Microsoft 365 office, Latex, Markdown.
 - 🛢 Bases de datos: MySQL, SQL-Server, PostgreSQL, SQlite, Firebase, Bigquery
 - 📊 Visualización de datos: Power Bi, Looker studio, Dash, Streamlit, Tableu""")
 
